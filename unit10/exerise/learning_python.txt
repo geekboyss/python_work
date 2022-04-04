@@ -1,0 +1,5 @@
+In Python you can cacl
+In Python you can use list
+In Python you can use for
+In Python you can use class
+
